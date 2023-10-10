@@ -19,3 +19,4 @@ after_success:
   - docker push saifulishaq/multi-nginx
   - docker push saifulishaq/multi-server
   - docker push saifulishaq/multi-worker
+  
